@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><testsuite errors="0" failures="13" name="Books API CRUD operations" skipped="0" tests="38" time="181.9" timestamp="2025-03-26 11:28:15"><testcase name="Create and verify book details multiple times"><failure message="Book deletion failed expected:&lt;200&gt; but was:&lt;500&gt;" type="java.lang.AssertionError">Book deletion failed expected:&lt;200&gt; but was:&lt;500&gt;</failure><system-err>Book deletion failed expected:&lt;200&gt; but was:&lt;500&gt;
+steps.BookApiSteps.deleteBook(BookApiSteps.java:81)
+stepDefinition.BookStepDefinitions.deleteTheBook(BookStepDefinitions.java:44)
+✽.the user deletes the book(file:///Users/bharathpalanisamy/Documents/BooksAPITestAutomation/src/test/resources/features/BooksAPIOperations.feature:6)
+</system-err></testcase><testcase name="Retrieve all books successfully"/><testcase name="Validate book creation with invalid price values"><failure message="Expected error status, but got: 200" type="java.lang.AssertionError">Expected error status, but got: 200</failure><system-err>Expected error status, but got: 200
+steps.BookApiSteps.responseShouldIndicateAnError(BookApiSteps.java:95)
+stepDefinition.BookStepDefinitions.responseShouldReturnErrorMessage(BookStepDefinitions.java:74)
+✽.the API should return an error response(file:///Users/bharathpalanisamy/Documents/BooksAPITestAutomation/src/test/resources/features/BooksAPIOperations.feature:45)
+</system-err></testcase><testcase name="Validate book creation with invalid pages values"/><testcase name="Successfully update a book's details"><failure message="expected:&lt;100[]&gt; but was:&lt;100[0]&gt;" type="java.lang.AssertionError">expected:&lt;100[]&gt; but was:&lt;100[0]&gt;</failure><system-err>expected:&lt;100[]&gt; but was:&lt;100[0]&gt;
+steps.BookApiSteps.verifyBookDetails(BookApiSteps.java:58)
+stepDefinition.BookStepDefinitions.theBookDetailsShouldBeUpdatedSuccessfully(BookStepDefinitions.java:152)
+✽.The book details should be updated successfully(file:///Users/bharathpalanisamy/Documents/BooksAPITestAutomation/src/test/resources/features/BooksAPIOperations.feature:72)
+</system-err></testcase><testcase name="Verify invalid authentication with incorrect username or password"/></testsuite>
