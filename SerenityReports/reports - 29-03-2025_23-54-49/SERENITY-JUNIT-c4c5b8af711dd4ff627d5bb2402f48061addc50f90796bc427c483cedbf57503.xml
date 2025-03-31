@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><testsuite errors="0" failures="10" name="Books API CRUD operations" skipped="0" tests="38" time="156.89" timestamp="2025-03-29 11:54:51"><testcase name="Create and verify book details multiple times"><failure message="Failed to delete book! Expected 200 but got 500" type="java.lang.AssertionError">Failed to delete book! Expected 200 but got 500</failure><system-err>Failed to delete book! Expected 200 but got 500
+steps.BookAPISteps.deleteBook(BookAPISteps.java:91)
+stepdefinitions.BookStepDefinitions.deleteTheBook(BookStepDefinitions.java:54)
+✽.the user deletes the book(file:///Users/bharathpalanisamy/Documents/BooksAPITestAutomation/src/test/resources/features/book_crud_operations.feature:6)
+</system-err></testcase><testcase name="Retrieve all books successfully"/><testcase name="Validate book creation with invalid price values"><failure message="Response code mismatch expected:&lt;400&gt; but was:&lt;200&gt;" type="java.lang.AssertionError">Response code mismatch expected:&lt;400&gt; but was:&lt;200&gt;</failure><system-err>Response code mismatch expected:&lt;400&gt; but was:&lt;200&gt;
+steps.BookAPISteps.verifyResponseCode(BookAPISteps.java:133)
+stepdefinitions.BookStepDefinitions.theResponseStatusCodeShouldBe(BookStepDefinitions.java:103)
+✽.The response status code should be 400(file:///Users/bharathpalanisamy/Documents/BooksAPITestAutomation/src/test/resources/features/book_crud_operations.feature:45)
+</system-err></testcase><testcase name="Validate book creation with invalid pages values"/><testcase name="Successfully update a book's details"><failure message="Pages mismatch expected:&lt;10[50]&gt; but was:&lt;10[02]&gt;" type="java.lang.AssertionError">Pages mismatch expected:&lt;10[50]&gt; but was:&lt;10[02]&gt;</failure><system-err>Pages mismatch expected:&lt;10[50]&gt; but was:&lt;10[02]&gt;
+steps.BookAPISteps.verifyBookDetails(BookAPISteps.java:64)
+stepdefinitions.BookStepDefinitions.theBookDetailsShouldBeUpdatedSuccessfully(BookStepDefinitions.java:129)
+✽.The book details should be updated successfully(file:///Users/bharathpalanisamy/Documents/BooksAPITestAutomation/src/test/resources/features/book_crud_operations.feature:72)
+</system-err></testcase><testcase name="Verify invalid authentication with incorrect username or password"/></testsuite>

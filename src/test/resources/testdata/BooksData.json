@@ -1,0 +1,245 @@
+[
+    {
+        "testCaseName":"CreateBookWithValidDataTest1",
+        "name":"Alice's Adventures in Wonderland",
+        "author":"Lewis Carroll",
+        "publication":"Dover Publications, INC",
+        "category":"Novel",
+        "pages":22,
+        "price":8968.0
+    },
+    {
+        "testCaseName":"CreateBookWithValidDataTest2",
+        "name":"The Adventures of Huckleberry Finn",
+        "author":"Mark Twain",
+        "publication":"Palazzo Editions Ltd",
+        "category":"Programming",
+        "pages":3321,
+        "price":77.3
+    },
+    {
+        "testCaseName":"CreateBookWithValidDataTest3",
+        "name":"The Adventures of Tom Sawyer",
+        "author":"Mark Twain",
+        "publication":"HarperCollins",
+        "category":"Web",
+        "pages":231,
+        "price":3677.5
+    },
+    {
+        "testCaseName":"CreateBookWithValidDataTest4",
+        "name":"Treasure Island",
+        "author":"Robert Louis Stevenson",
+        "publication":"Hachette Livre",
+        "category":"Mobile",
+        "pages":667,
+        "price":10.0
+    },
+    {
+        "testCaseName":"CreateBookWithValidDataTest5",
+        "name":"Pride and Prejudice",
+        "author":"Jane Austen",
+        "publication":"Macmillan Publishers",
+        "category":"*(^iuhkhkhh",
+        "pages":8009,
+        "price":22.0
+    },
+    {
+        "testCaseName":"CreateBookWithValidDataTest6",
+        "name":"Wuthering Heights",
+        "author":"Emily Bronte",
+        "publication":"Bloomsbury Publishing",
+        "category":"KGJG223",
+        "pages":7778,
+        "price":1122.0
+    },
+    {
+        "testCaseName":"CreateBookWithValidDataTest7",
+        "name":"Jane Eyre",
+        "author":"O\u2019Reilly Media",
+        "publication":"O\u2019Reilly Media",
+        "category":"O\u2019Reilly Media",
+        "pages":1,
+        "price":1.0
+    },
+    {
+        "testCaseName":"CreateBookWithValidDataTest8",
+        "name":"Moby Dick",
+        "author":"Herman Melville",
+        "publication":"JGJG00ef2%$#%",
+        "category":"Programming",
+        "pages":221,
+        "price":223.3
+    },
+    {
+        "testCaseName":"CreateBookWithValidDataTest9",
+        "name":"The Scarlet Letter",
+        "author":"Nathaniel Hawthorne",
+        "publication":"TestPublication1",
+        "category":"Web",
+        "pages":122,
+        "price":1233.5
+    },
+    {
+        "testCaseName":"CreateBookWithValidDataTest10",
+        "name":"Gulliver's Travels",
+        "author":"Ubj&HHLSF(((FS",
+        "publication":"Bloomsbury Publishing",
+        "category":"Mobile",
+        "pages":112,
+        "price":233.5
+    },
+    {
+        "testCaseName":"CreateBookWithValidDataTest11",
+        "name":"%&JHVHJHSSF",
+        "author":"John Bunyan",
+        "publication":"kjjjfhee",
+        "category":"Programming",
+        "pages":11,
+        "price":400.0
+    },
+    {
+        "testCaseName":"CreateBookWithValidDataTest12",
+        "name":"786783iuhwkhfjkh@@@#",
+        "author":"kGJUW^&S&^(*(*",
+        "publication":"3ege3",
+        "category":"Programming",
+        "pages":10,
+        "price":501.0
+    },
+    {
+        "testCaseName":"CreateBookWithValidDataTest13",
+        "name":"YTYUTJJBmnBVHvjhgjgudjbhiohihi,n,hijhuyyyYTYUTJJBmnBVHvjhgjgudjbhiohihi,n,hijhuyyyYTYUTJJBmnBVHvjhgjgudjbhiohihi,n,hijhuyyyYTYUTJJBmnBVHvjhgjgudjbhiohihi,n,hijhuyyyYTYUTJJBmnBVHvjhgjgudjbhiohihi,n,hijhuyyy",
+        "author":"hjjkijlkn, ,mmj m mYTYUTJJBmnBVHvjhgjgudjbhiohihi,n,hijhuyyyYTYUTJJBmnBVHvjhgjgudjbhiohihi,n,hijhuyyyYTYUTJJBmnBVHvjhgjgudjbhiohihi,n,hijhuyyyYTYUTJJBmnBVHvjhgjgudjbhiohihi,n,hijhuyyyYTYUTJJBmnBVHvjhgjgudjbhiohihi,n,hijhuyyy",
+        "publication":"guyagfuygeyuafjabcjmabbfbfdbfmYTYUTJJBmnBVHvjhgjgudjbhiohihi,n,hijhuyyyYTYUTJJBmnBVHvjhgjgudjbhiohihi,n,hijhuyyyYTYUTJJBmnBVHvjhgjgudjbhiohihi,n,hijhuyyyYTYUTJJBmnBVHvjhgjgudjbhiohihi,n,hijhuyyy",
+        "category":"YTYUTJJBmnBVHvjhgjgudjbhiohihi,n,hijhuyyyYTYUTJJBmnBVHvjhgjgudjbhiohihi,n,hijhuyyyYTYUTJJBmnBVHvjhgjgudjbhiohihi,n,hijhuyyyYTYUTJJBmnBVHvjhgjgudjbhiohihi,n,hijhuyyy",
+        "pages":10,
+        "price":200.0
+    },
+    {
+        "testCaseName":"CreateBookWithValidDataTest14",
+        "name":"Pride and Prejudice",
+        "author":"Jane Austen",
+        "publication":"Macmillan Publishers",
+        "category":"*(^iuhkhkhh",
+        "pages":8009,
+        "price":22.0
+    },
+    {
+        "testCaseName":"CreateBookWithValidDataTest15",
+        "name":"Pride and Prejudice",
+        "author":"Jane Austen",
+        "publication":"Macmillan Publishers",
+        "category":"*(^iuhkhkhh",
+        "pages":8009,
+        "price":22.0
+    },
+    {
+        "testCaseName":"CreateBookWithValidDataTest16",
+        "name":"Pride and Prejudice",
+        "author":"Jane Austen",
+        "publication":"Macmillan Publishers",
+        "category":"*(^iuhkhkhh",
+        "pages":8009,
+        "price":22.54
+    },
+    {
+        "testCaseName":"CreateBookWithValidDataTest17",
+        "name":"Wuthering Heights",
+        "author":"Emily Bronte",
+        "publication":"Bloomsbury Publishing",
+        "category":"KGJG223",
+        "pages":7778,
+        "price":1122.0
+    },
+    {
+        "testCaseName":"CreateBookWithValidDataTest18",
+        "name":"Wuthering Heights",
+        "author":"Emily Bronte",
+        "publication":"Bloomsbury Publishing",
+        "category":"KGJG223",
+        "pages":7778,
+        "price":1122.0
+    },
+    {
+        "testCaseName":"CreateBookWithValidDataTest19",
+        "name":"Wuthering Heights",
+        "author":"Emily Bronte",
+        "publication":"Bloomsbury Publishing",
+        "category":"KGJG223",
+        "pages":7778,
+        "price":1122.0
+    },
+    {
+        "testCaseName":"CreateBookWithValidDataTest20",
+        "name":"The Adventures of Huckleberry Finn",
+        "author":"Mark Twain",
+        "publication":"Palazzo Editions Ltd",
+        "category":"Programming",
+        "pages":24324,
+        "price":343.43
+    },
+    {
+        "testCaseName":"UpdateBookDetailsNameUpdate",
+        "name":"The Lord of the Rings by J.R.R. Tolkien",
+        "author":"J.R.R. Tolkien",
+        "publication":"Macmillan Publishers",
+        "category":"Science",
+        "pages":200,
+        "price":500.0
+    },
+    {
+        "testCaseName":"UpdateBookDetailsAuthorUpdate",
+        "name":"The Harry Potter Series by J.K. Rowling",
+        "author":"J.K. Rowling",
+        "publication":"Hachette Book Group",
+        "category":"History",
+        "pages":203,
+        "price":2330.0
+    },
+    {
+        "testCaseName":"UpdateBookDetailsPublicationUpdate",
+        "name":"The Alchemist by Paulo Coelho",
+        "author":"Paulo Coelho",
+        "publication":"Bloomsbury Publishing",
+        "category":"Programming",
+        "pages":345,
+        "price":600.0
+    },
+    {
+        "testCaseName":"UpdateBookDetailsCategoryUpdate",
+        "name":"The Da Vinci Code by Dan Brown",
+        "author":"Dan Brown",
+        "publication":"Penguin Books",
+        "category":"Web",
+        "pages":500,
+        "price":800.0
+    },
+    {
+        "testCaseName":"UpdateBookDetailsPagesUpdate",
+        "name":"The Twilight Saga by Stephenie Meyer",
+        "author":"Stephenie Meyer",
+        "publication":"Scholastic",
+        "category":"Mobile",
+        "pages":1000,
+        "price":100.0
+    },
+    {
+        "testCaseName":"UpdateBookDetailsPriceUpdate",
+        "name":"Quotations from the Works of Mao Tse-Tung (Mao Zedong) ",
+        "author":"Mao Tse-Tung",
+        "publication":"Penguin Random House",
+        "category":"History",
+        "pages":234,
+        "price":2220.0
+    },
+    {
+        "testCaseName":"UpdateBookDetailsMultipleFieldsUpdate",
+        "name":"The Room on the Roof by Ruskin Bond ",
+        "author":"Ruskin Bond",
+        "publication":"Simon & Schuster",
+        "category":"Science",
+        "pages":2300,
+        "price":3440.0
+    }
+]
